@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Matt !</h1>
-<h3 align="center">Passionate about artificial intelligence</h3>
+<h3 align="center">Passionate about artificial intelligence ♥️</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
