@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Matt !</h1>
 <h3 align="center">Passionate about artificial intelligence 🤖🖤</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
